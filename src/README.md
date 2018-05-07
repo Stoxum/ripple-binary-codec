@@ -1,1 +1,1 @@
-# ripple-binary-codec
+# stoxum-binary-codec

@@ -4,7 +4,7 @@ const coreTypes = require('../src/coretypes');
 
 const _ = require('lodash');
 const assert = require('assert-diff');
-const {encodeAccountID} = require('ripple-address-codec');
+const {encodeAccountID} = require('stoxum-address-codec');
 const {binary: {makeParser, readJSON}, Field, Amount, Hash160} = coreTypes;
 const {enums: {TransactionType}} = coreTypes;
 const utils = require('./utils');

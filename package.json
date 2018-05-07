@@ -1,7 +1,7 @@
 {
-  "name": "ripple-binary-codec",
+  "name": "stoxum-binary-codec",
   "version": "0.1.13",
-  "description": "ripple binary codec",
+  "description": "stoxum binary codec",
   "files": [
     "distrib/npm/*",
     "bin/*",
@@ -18,7 +18,7 @@
     "decimal.js": "^5.0.8",
     "inherits": "^2.0.1",
     "lodash": "^4.12.0",
-    "ripple-address-codec": "^2.0.1"
+    "stoxum-address-codec": "^2.0.1"
   },
   "devDependencies": {
     "assert-diff": "^1.0.1",
